@@ -1,4 +1,4 @@
-# 🤖 01-Sistema-Embarcado-Monitoramento-IoT
+# 🤖 01- Monitoramento com Esp32-CAM
 
 ## 🚨 Projeto Integrador I: Sensor de Presença com ESP32-CAM e Alerta Telegram
 
