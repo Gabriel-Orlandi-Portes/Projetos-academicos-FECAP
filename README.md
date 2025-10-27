@@ -32,7 +32,7 @@ Os projetos contidos neste repositório permitiram consolidar experiência e pro
 
 | Pasta | Semestre | Título/Foco Principal | Tecnologias Chave |
 | :---: | :---: | :--- | :--- |
-| **`01- Monitoramento com ESP-32 CAM`(./01- Monitoramento com ESP-32 CAM/README.md)`** | 1º Semestre | **Sistemas Embarcados:** Sistema de segurança residencial com alerta automatizado via Telegram. | **C/C++**, **ESP32**, **Telegram API**. |
+| **`01- Monitoramento com ESP-32 CAM`(./01-%20Monitoramento%20com%20ESP-32%20CAM/README.md)`** | 1º Semestre | **Sistemas Embarcados:** Sistema de segurança residencial com alerta automatizado via Telegram. | **C/C++**, **ESP32**, **Telegram API**. |
 | **`02-Website CultivAção`** | 2º Semestre | **Desenvolvimento Web Front-end:** Plataforma de Agricultura Urbana e incentivo à sustentabilidade com calculadora de rendimento inovadora feita de maneira independente. | **React.js**, **Node.js**, **Axios**, **Front-end**, **Back-end**, **Java** **SQLite**. |
 | **`03- App Mobile Edupay`** | 3º Semestre | **Desenvolvimento Mobile:** Aplicativo Android para controle de mensalidades e sistema de gamificação/recompensa para faculdades/escolas. | **Android Studio (Java)**, **Firebase** (Auth/Realtime DB). |
 | **`04-Projeto-Atual-Em-Andamento`** | 4º Semestre | *Este projeto está em andamento. Detalhes serão adicionados ao longo do semestre.* | *A ser definido.* |
