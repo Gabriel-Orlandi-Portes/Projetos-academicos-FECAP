@@ -1,4 +1,4 @@
-# 🤖 01- Monitoramento com Esp32-CAM
+# 🤖 01- Monitoramento com ESP-32 CAM
 
 ## 🚨 Projeto Integrador I: Sensor de Presença com ESP32-CAM e Alerta Telegram
 
