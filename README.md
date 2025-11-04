@@ -35,7 +35,7 @@ Os projetos contidos neste repositório permitiram consolidar experiência e pro
 | **`01- Monitoramento com ESP-32 CAM`** | 1º Semestre | **Sistemas Embarcados:** Sistema de segurança residencial com alerta automatizado via Telegram. | **C/C++**, **ESP32**, **Telegram API**. |
 | **`02-Website CultivAção`** | 2º Semestre | **Desenvolvimento Web Front-end:** Plataforma de Agricultura Urbana e incentivo à sustentabilidade com calculadora de rendimento inovadora feita de maneira independente. | **React.js**, **Node.js**, **Axios**, **Front-end**, **Back-end**, **Java** **SQLite**. |
 | **`03- App Mobile Edupay`** | 3º Semestre | **Desenvolvimento Mobile:** Aplicativo Android para controle de mensalidades e sistema de gamificação/recompensa para faculdades/escolas. | **Android Studio (Java)**, **Firebase** (Auth/Realtime DB). |
-| **`04-Projeto-Atual-Em-Andamento`** | 4º Semestre | *Este projeto está em andamento. Detalhes serão adicionados ao longo do semestre.* | *A ser definido.* |
+| **`04-Dashboard Cannoli Inteligence`** | 4º Semestre | *Dashboard interativo realizado em parceria com a start up Cannoli. (Projeto em desenvolvimento).* | **React.js**, **Node.js**, **Python**, **SQlite** .* |
 
 ---
 
