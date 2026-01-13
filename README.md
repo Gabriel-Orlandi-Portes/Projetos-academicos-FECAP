@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/1º%20Semestre-Concluído-4CAF50?style=for-the-badge&color=2E8B57" alt="1º Semestre Concluído">
   <img src="https://img.shields.io/badge/2º%20Semestre-Concluído-4CAF50?style=for-the-badge&color=2E8B57" alt="2º Semestre Concluído">
   <img src="https://img.shields.io/badge/3º%20Semestre-Concluído-4CAF50?style=for-the-badge&color=2E8B57" alt="3º Semestre Concluído">
-  <img src="https://img.shields.io/badge/4º%20Semestre-Em%20Andamento-FFA500?style=for-the-badge" alt="4º Semestre Em Andamento">
+  <img src="https://img.shields.io/badge/4º%20Semestre-Concluído-4CAF50?style=for-the-badge&color=2E8B57" alt="4º Semestre Concluído">
 </p>
 
 ---
@@ -35,7 +35,7 @@ Os projetos contidos neste repositório permitiram consolidar experiência e pro
 | **`01- Monitoramento com ESP-32 CAM`** | 1º Semestre | **Sistemas Embarcados:** Sistema de segurança residencial com alerta automatizado via Telegram. | **C/C++**, **ESP32**, **Telegram API**. |
 | **`02-Website CultivAção`** | 2º Semestre | **Desenvolvimento Web Front-end:** Plataforma de Agricultura Urbana e incentivo à sustentabilidade com calculadora de rendimento inovadora feita de maneira independente. | **React.js**, **Node.js**, **Axios**, **Front-end**, **Back-end**, **Java** **SQLite**. |
 | **`03- App Mobile Edupay`** | 3º Semestre | **Desenvolvimento Mobile:** Aplicativo Android para controle de mensalidades e sistema de gamificação/recompensa para faculdades/escolas. | **Android Studio (Java)**, **Firebase** (Auth/Realtime DB). |
-| **`04-Dashboard Cannoli Inteligence`** | 4º Semestre | *Dashboard interativo realizado em parceria com a start up Cannoli. (Projeto em desenvolvimento).* | **React.js**, **Node.js**, **Python**, **SQlite** .* |
+| **`04-Dashboard Cannoli Inteligence`** | 4º Semestre | *Dashboard interativo realizado em parceria com a start up Cannoli.* | **React.js**, **Node.js**, **Python**, **SQlite** .* |
 
 ---
 
